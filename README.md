@@ -1,2 +1,2 @@
 # Python-SalesAnalysis
-Python project using Pandas, Matplotlib
+Python project EDA, Pandas, Matplotlib
